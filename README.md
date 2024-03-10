@@ -1,4 +1,3 @@
-```html
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently pursuing BscIT with keen interest in data science <br>🎯 Goals: To become proficient in data science and contribute to solving real-world problems<br>🎲 Fun fact: I love exploring new datasets and finding interesting patterns in them</p>
+<p align="left">📚 I'm currently pursuing BscIT with a keen interest in data science <br>🎯 Goals: To become proficient in data science and contribute to solving real-world problems<br>🎲 Fun fact: I love exploring new datasets and finding interesting patterns in them</p>
 
 ###
 
@@ -27,5 +26,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
 </div>
 
-###
-```
+###```
