@@ -17,7 +17,43 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsmemauliii/](https://github.com/itsmemauliii/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/newsletters/tech-data-chronicles-7165945421201063936](https://www.linkedin.com/newsletters/tech-data-chronicles-7165945421201063936)
+- 📝 I weekly write articles on [https://www.linkedin.com/newsletters/tech-data-chronicles-7165945421201063936](https://www.linkedin.com/newsletters/tech-data-chronicles-7165945421201063936)
+- <style>
+      .libutton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 7px;
+        text-align: center;
+        outline: none;
+        text-decoration: none !important;
+        color: #ffffff !important;
+        width: 200px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #0A66C2;
+        font-family: "SF Pro Text", Helvetica, sans-serif;
+      }
+    </style>
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7165945421201063936" target="_blank">Subscribe on LinkedIn</a>  and ( Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7171353502907154432
+- <style>
+      .libutton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 7px;
+        text-align: center;
+        outline: none;
+        text-decoration: none !important;
+        color: #ffffff !important;
+        width: 200px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #0A66C2;
+        font-family: "SF Pro Text", Helvetica, sans-serif;
+      }
+    </style>
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7171353502907154432" target="_blank">Subscribe on LinkedIn</a>
 
 - 💬 Ask me about **Data Science Tools**
 
