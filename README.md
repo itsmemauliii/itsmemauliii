@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsmemauliii/](https://github.com/itsmemauliii/)
 
-- 📝 I weekly write articles on [https://www.linkedin.com/newsletters/tech-data-chronicles-7165945421201063936](https://www.linkedin.com/newsletters/tech-data-chronicles-7165945421201063936) and ( https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7171353502907154432)
+- 📝 I weekly write articles on [https://www.linkedin.com/newsletters/tech-data-chronicles-7165945421201063936](https://www.linkedin.com/newsletters/tech-data-chronicles-7165945421201063936) and  https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7171353502907154432
   
 - 💬 Ask me about **Data Science Tools**
 
