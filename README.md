@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 <h1 align="center">Hi 👋, I'm Mauli Patel</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
