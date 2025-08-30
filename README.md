@@ -36,7 +36,7 @@
 
 - Email: [maulipatel18112003@gmail.com](mailto:maulipatel18112003@gmail.com)
 - LinkedIn: [itsmemauliii](https://www.linkedin.com/in/itsmemauliii)
-- Portfolio / Resume: [View Resume](https://leather-ogre-9ed.notion.site/Mauli-Patel-b8da6e0138b94e8dbb65668529100dfd)
+- Portfolio / Resume: [View My Portfolio](https://itsmemauliii.github.io)
 
 ## 📄 Content & Blogs
 
