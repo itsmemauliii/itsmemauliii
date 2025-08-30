@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [Data Science Projects](https://github.com/itsmemauliii/Data-Science-Projects)
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsmemauliii/](https://github.com/itsmemauliii/)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/itsmemauliii/)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/itsmemauliii](www.linkedin.com/in/itsmemauliii)
+- 📝 I regularly write articles on [My LinkedIn](www.linkedin.com/in/itsmemauliii)
 
 - 💬 Ask me about **Data Science & AI Tools**
 
 - 📫 How to reach me **maulipatel18112003@gmail.com**
 
-- 📄 Know about my experiences [https://leather-ogre-9ed.notion.site/Mauli-Patel-b8da6e0138b94e8dbb65668529100dfd](https://leather-ogre-9ed.notion.site/Mauli-Patel-b8da6e0138b94e8dbb65668529100dfd)
+- 📄 Know about my experiences [My Portfolio](https://itsmemauliii.github.io)
 
 - ⚡ Fun fact: **I'm always eager to learn and adapt, just like a data scientist constantly exploring new insights and techniques in their field!**
 
@@ -36,7 +36,7 @@
 
 - Email: [maulipatel18112003@gmail.com](mailto:maulipatel18112003@gmail.com)
 - LinkedIn: [itsmemauliii](https://www.linkedin.com/in/itsmemauliii)
-- Portfolio / Resume: [View My Portfolio](https://itsmemauliii.github.io)
+- Portfolio: [View My Portfolio](https://itsmemauliii.github.io)
 
 ## 📄 Content & Blogs
 
