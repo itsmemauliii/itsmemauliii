@@ -25,7 +25,7 @@ When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Sp
 | **Data Analyst** | Transforming messy data into business insights using Python, SQL, and Tableau. |
 | **Freelancer** | Working independently on client-based analytics, AI model evaluation, and automation tasks. |
 | **Affiliate Marketer** | Promoting AI, data, and tech products through storytelling and authentic marketing. |
-| **Founder** | Creator of **Tech Data Hub** — a platform sharing AI, prompt engineering, and data tutorials. |
+| **Founder** | Creator of **Tech Data Hub**, a platform sharing AI, prompt engineering, and data tutorials. |
 | **Freelance Data Partner** | Supporting data-driven companies with data cleaning, EDA, and model tuning. |
 | **AI Agent Expert** | Evaluating and improving LLM responses through structured feedback and prompt testing. |
 | **Content Creator** | Building a community around AI education on LinkedIn, Medium, and Instagram. |
