@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmemauliii&label=Profile%20views&color=0e75b6&style=flat" alt="itsmemauliii" /> </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmemauliii" alt="itsmemauliii" /></a> </p>
----
 
 ### 👩‍💻 About Me  
 I’m a **freelance data scientist and AI content creator** passionate about turning raw data and models into something that actually makes sense to humans.  
@@ -62,12 +61,6 @@ When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Sp
 - 💡 [AI Projects](https://github.com/itsmemauliii/AI-Projects) – Generative AI, NLP, and predictive workflows  
 
 ---
-
-## 🌟 Portfolio Highlights  
-
-<p align="center">
-  <img src="image.png" alt="Portfolio Highlights – Vision Chatbot, FoodFinder.AI, Tableau Dashboards, Medium Blog" width="90%">
-</p>
 
 <p align="center">
   <i>👆 Explore my live Hugging Face apps, dashboards, and data storytelling work.</i>
