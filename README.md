@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=itsmemauliii&label=Profile%20views&color=0e75b6&style=flat" alt="itsmemauliii" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=itsmemauliii&theme=darkhub" alt="itsmemauliii" />
-  </a>
-</p>
-
 ---
 
 ### 👩‍💻 About Me  
@@ -21,6 +15,21 @@ Currently pursuing **M.Sc. in Big Data Analytics** at *St. Xavier’s College*, 
 I’ve worked with **TELUS International** (AI Data Partner) and **Mindrift** (AI Agent Assistant), refining AI systems through multimodal labeling, prompt evaluation, and dataset optimization.  
 
 When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Spaces**, designing dashboards, or writing posts for **Tech Data Hub**, my growing online brand for AI and data learning.  
+
+---
+
+### 🎭 Roles I Play  
+
+| Role | Description |
+|------|--------------|
+| **Data Analyst** | Transforming messy data into business insights using Python, SQL, and Tableau. |
+| **Freelancer** | Working independently on client-based analytics, AI model evaluation, and automation tasks. |
+| **Affiliate Marketer** | Promoting AI, data, and tech products through storytelling and authentic marketing. |
+| **Founder** | Creator of **Tech Data Hub** — a platform sharing AI, prompt engineering, and data tutorials. |
+| **Freelance Data Partner** | Supporting data-driven companies with data cleaning, EDA, and model tuning. |
+| **AI Agent Expert** | Evaluating and improving LLM responses through structured feedback and prompt testing. |
+| **Content Creator** | Building a community around AI education on LinkedIn, Medium, and Instagram. |
+| **Content Writer** | Writing articles that translate complex AI topics into relatable stories. |
 
 ---
 
@@ -45,47 +54,27 @@ When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Sp
 ---
 
 ### 🧠 Featured Projects  
-- 🤖 [Vision Chatbot](https://huggingface.co/spaces/itsmemauliii/Vision-Chatbot) – Image captioning & object detection chatbot with real-time responses  
-- 🍴 [FoodFinder.AI](https://huggingface.co/spaces/itsmemauliii/FoodFinder-AI) – NLP-based recipe & restaurant recommender using sentence transformers  
+- 🤖 [Vision Chatbot](https://huggingface.co/spaces/itsmemauliii/Vision-Chatbot) – Image captioning & object detection chatbot  
+- 🍴 [FoodFinder.AI](https://huggingface.co/spaces/itsmemauliii/FoodFinder-AI) – NLP-based recipe & restaurant recommender  
 - 📊 [Data Science Projects](https://github.com/itsmemauliii/Data-Science-Projects) – Exploratory data analysis & ML notebooks  
-- 💡 [AI Projects](https://github.com/itsmemauliii/AI-Projects) – End-to-end ML workflows and generative experiments  
+- 💡 [AI Projects](https://github.com/itsmemauliii/AI-Projects) – Generative AI, NLP, and predictive workflows  
 
 ---
 
-## 🌐 Portfolio Highlights  
+## 🌟 Portfolio Highlights  
 
 <p align="center">
-  <a href="https://huggingface.co/spaces/itsmemauliii/Vision-Chatbot">
-    <img src="https://github.com/itsmemauliii/itsmemauliii/assets/vision_chatbot_preview.png" width="45%" alt="Vision Chatbot on Hugging Face" />
-  </a>
-  <a href="https://huggingface.co/spaces/itsmemauliii/FoodFinder-AI">
-    <img src="https://github.com/itsmemauliii/itsmemauliii/assets/foodfinder_preview.png" width="45%" alt="FoodFinder.AI Hugging Face App" />
-  </a>
+  <img src="ChatGPT%20Image%20Nov%203%2C%202025%2C%2006_23_53%20PM.png" alt="Portfolio Highlights – Vision Chatbot, FoodFinder.AI, Tableau Dashboards, Medium Blog" width="90%">
 </p>
 
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/mauli.patel">
-    <img src="https://github.com/itsmemauliii/itsmemauliii/assets/tableau_dashboard_preview.png" width="45%" alt="Tableau Dashboards" />
-  </a>
-  <a href="https://medium.com/@itsmemauli">
-    <img src="https://github.com/itsmemauliii/itsmemauliii/assets/medium_blog_preview.png" width="45%" alt="Medium Blog Articles" />
-  </a>
-</p>
-
-<p align="center">
-  <i>👆 Click to explore my live apps, dashboards, and written work.</i>
+  <i>👆 Explore my live Hugging Face apps, dashboards, and data storytelling work.</i>
 </p>
 
 ---
 
 ### 💬 Ask Me About  
-**Python, AI Tools, Prompt Engineering, Hugging Face, and turning messy data into smart dashboards**
-
----
-
-### 📫 Reach Me  
-📧 [maulipatel18112003@gmail.com](mailto:maulipatel18112003@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/itsmemauliii) | [Portfolio](https://itsmemauliii.github.io) | [Medium](https://medium.com/@itsmemauli)
+**Data Science • AI Tools • Hugging Face • Prompt Engineering • Dashboard Design**
 
 ---
 
@@ -94,7 +83,7 @@ I debug machine learning pipelines faster than I find matching socks. ☕🤖
 
 ---
 
-## 💻 Tech Stack  
+### 💻 Tech Stack  
 **Languages:** Python, R, SQL, Scala  
 **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch, Plotly  
 **Tools:** Power BI, Tableau, Streamlit, Hugging Face, Notion, Excel  
@@ -103,19 +92,16 @@ I debug machine learning pipelines faster than I find matching socks. ☕🤖
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=itsmemauliii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsmemauliii&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmemauliii&theme=tokyonight&hide_border=true&layout=compact)
+### 📊 GitHub Stats  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmemauliii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmemauliii&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=itsmemauliii&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmemauliii&theme=tokyonight&hide_border=true&layout=compact" width="50%"/>
+</p>
 
 ---
 
@@ -126,11 +112,17 @@ I’ve built a **10K+ audience** through authentic content on **LinkedIn & Insta
 🧩 Highlights:  
 - Founded **Tech Data Hub** – an educational space for AI awareness  
 - Created **viral storytelling posts** on data and GenAI use cases  
-- Featured AI tools, prompt tricks & tutorials consistently  
+- Featured AI tools, prompt tricks & tutorials  
 - Skilled in **copywriting, brand voice, and visual storytelling**  
 - Tools I vibe with: *GPT-4, Canva, Notion, Grammarly, Quillbot*  
 
 > “Numbers tell the story. I just give them a voice.”
+
+---
+
+### 📫 Contact  
+📧 **[maulipatel18112003@gmail.com](mailto:maulipatel18112003@gmail.com)**  
+🔗 [LinkedIn](https://linkedin.com/in/itsmemauliii) • [Portfolio](https://itsmemauliii.github.io) • [Medium](https://medium.com/@itsmemauli)
 
 ---
 
