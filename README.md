@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauli Patel</h1>
-<h3 align="center">Freelance Data Scientist • AI Evaluator • Creative Technologist from India 🇮🇳</h3>
+<h3 align="center">Freelance Data Scientist • AI Evaluator • Open-source contributor • Community builder • Educating devs through data & AI projects • Creative Technologist from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmemauliii&label=Profile%20views&color=0e75b6&style=flat" alt="itsmemauliii" /> </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmemauliii" alt="itsmemauliii" /></a> </p>
