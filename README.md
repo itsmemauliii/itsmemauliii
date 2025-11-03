@@ -14,7 +14,7 @@ Currently pursuing **M.Sc. in Big Data Analytics** at *St. Xavier’s College*, 
 
 I’ve worked with **TELUS International** (AI Data Partner) and **Mindrift** (AI Agent Assistant), refining AI systems through multimodal labeling, prompt evaluation, and dataset optimization.  
 
-When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Spaces**, designing dashboards, or writing posts for **Tech Data Hub**, my growing online brand for AI and data learning.  
+When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Spaces**, designing dashboards, or writing posts for **Tech Data Hub** and **NovemberAI**, my growing online brand for AI and data learning.  
 
 ---
 
