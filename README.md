@@ -120,10 +120,4 @@ I’ve built a **10K+ audience** through authentic content on **LinkedIn & Insta
   <i>Turning coffee into code, insights into impact, and curiosity into my next project ☕📊</i>
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=itsmemauliii&icon=2&color=5" alt="Profile views counter" />
-  </a>
-</p>
-
 <!-- Crafted with ❤️ + curiosity -->
