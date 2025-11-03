@@ -64,7 +64,7 @@ When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Sp
 ## 🌟 Portfolio Highlights  
 
 <p align="center">
-  <img src="ChatGPT%20Image%20Nov%203%2C%202025%2C%2006_23_53%20PM.png" alt="Portfolio Highlights – Vision Chatbot, FoodFinder.AI, Tableau Dashboards, Medium Blog" width="90%">
+  <img src="image.png" alt="Portfolio Highlights – Vision Chatbot, FoodFinder.AI, Tableau Dashboards, Medium Blog" width="90%">
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Before I was deep into datasets, I was crafting digital stories.
 I’ve built a **10K+ audience** through authentic content on **LinkedIn & Instagram**, writing about AI, data, and creativity.  
 
 🧩 Highlights:  
-- Founded **Tech Data Hub** – an educational space for AI awareness  
+- Founded **Tech Data Hub**, an educational space for AI awareness  
 - Created **viral storytelling posts** on data and GenAI use cases  
 - Featured AI tools, prompt tricks & tutorials  
 - Skilled in **copywriting, brand voice, and visual storytelling**  
