@@ -91,10 +91,6 @@ I debug machine learning pipelines faster than I find matching socks. ☕🤖
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmemauliii&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmemauliii&theme=tokyonight&hide_border=true&layout=compact" width="50%"/>
-</p>
-
 ---
 
 ## 🎨 Creator Corner  
