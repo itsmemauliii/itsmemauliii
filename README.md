@@ -26,6 +26,7 @@ When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Sp
 | **Founder** | Creator of **NovemberAI**, I make AI Products. |
 | **Freelance Data Partner** | Supporting data-driven companies with data cleaning, EDA, and model tuning. |
 | **AI Agent Assistant** | Evaluating and improving LLM responses through structured feedback and prompt testing. |
+| **AI Trainer** | Evaluating AI outputs for quality and accuracy. |
 | **Content Creator** | Building a community around AI education on LinkedIn, Medium, and Instagram. |
 | **Content Writer** | Writing articles that translate complex AI topics into relatable stories. |
 
