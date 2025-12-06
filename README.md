@@ -9,7 +9,7 @@ I’m a **freelance data scientist and AI content creator** passionate about tur
 
 Currently pursuing **M.Sc. in Big Data Analytics** at *St. Xavier’s College*, I balance my time between building data projects, testing large language models, and writing about the tech world that keeps evolving faster than my coffee brews.  
 
-I’ve worked with **TELUS International** (AI Data Partner) and **Mindrift** (AI Agent Assistant), refining AI systems through multimodal labeling, prompt evaluation, and dataset optimization.  
+I’ve worked with **TELUS International** (AI Data Partner), **Turing** (AI Trainer) and **Mindrift** (AI Agent Assistant), refining AI systems through multimodal labeling, prompt evaluation, and dataset optimization.  
 
 When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Spaces**, designing dashboards, or writing posts for **Tech Data Hub** and **NovemberAI**, my growing online brand for AI and data learning.  
 
