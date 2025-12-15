@@ -23,7 +23,7 @@ When I’m not fine-tuning models, I’m building mini-apps on **Hugging Face Sp
 | **Freelancer** | Working independently on client-based analytics, AI model evaluation, and automation tasks. |
 | **Affiliate Marketer** | Promoting AI, data, and tech products through storytelling and authentic marketing. |
 | **Founder** | Creator of **Tech Data Hub**, a platform sharing AI, prompt engineering, and data tutorials. |
-| **Founder** | Creator of **NovemberAI**, I make AI Products. |
+| **Founder** | Creator of **StarfishAI**, I make AI Automations. |
 | **Freelance Data Partner** | Supporting data-driven companies with data cleaning, EDA, and model tuning. |
 | **AI Agent Assistant** | Evaluating and improving LLM responses through structured feedback and prompt testing. |
 | **AI Trainer** | Evaluating AI outputs for quality and accuracy. |
